@@ -28,7 +28,7 @@ public class Client_CTL implements Initializable
 	{
 		label1.setText("hamza");
 		
-		String tt="xxx";
+		String tt="hhhx";
 	}
 	
 	
